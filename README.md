@@ -44,6 +44,8 @@ The following metrics were created and utilized in the dashboard:
 - **RevPAR WoW Change %**
 - **Realization WoW Change %**
 - **DSRN WoW Change %**
+## Data Relationship
+![image](https://github.com/user-attachments/assets/97595349-2d6f-445f-8cb0-9cf6eef76351)
 
 ## Features
 
@@ -62,6 +64,9 @@ Interactive filters include:
 - **Week Number**: Filters data by week.
 - **Room Type**: Filters data by room class (Standard, Elite, etc.).
 - **City Name**: Filters data by city.
+
+## Final Interactive Dashboard
+![image](https://github.com/user-attachments/assets/cef672d2-4cf8-4809-b474-d05cb1465021)
 
 ## Analysis and Insights
 
